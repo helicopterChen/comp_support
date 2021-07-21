@@ -8,6 +8,7 @@ pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
 facebook.com, 187816742245617, RESELLER, c3e20eee3f780d68
+facebook.com, 187816742245617, DIRECT, c3e20eee3f780d68
 google.com, pub-5287525632142158, DIRECT, f08c47fec0942fa0
 vungle.com, 60af5d0debafa00017ec45c3, DIRECT, c107d686becd2d77
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
