@@ -130,6 +130,7 @@ olaex.biz,100023,RESELLER
 pubmatic.com, 158271, RESELLER, 5d62403b186f2ace
 kubient.com, 5eb2cb089c866, RESELLER, 4f12311e6ed900a3
 pangle.cn, 14214, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 unity.com, 2243710, DIRECT, 96cabb5fbdde37a7
 unity3d.com, 2243710, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
